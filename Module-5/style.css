@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size:large ;
+}
+
+.tiny {
+    font-size: x-small;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.fontchange {
+    font-family: cursive;
+}
+
+.multattrib {
+    font-size: large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: green;
+    line-height: 2;
+}
+
+#styledImage {
+    border-width: 3;
+    border-style: solid;
+    border-color: orange;
+
+}
